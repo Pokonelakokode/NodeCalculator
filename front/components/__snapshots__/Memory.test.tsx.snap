@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Memory component should be able to render 1`] = `
+<div
+  className="row no-gutters"
+>
+  <div
+    className="col-2 mt-2"
+  >
+    <div
+      className="numeric"
+      onClick={[Function]}
+    >
+      MR
+    </div>
+  </div>
+  <div
+    className="col-2 mt-2"
+  >
+    <div
+      className="numeric"
+      onClick={[Function]}
+    >
+      MS
+    </div>
+  </div>
+  <div
+    className="col-2 mt-2"
+  >
+    <div
+      className="numeric"
+      onClick={[Function]}
+    >
+      M+
+    </div>
+  </div>
+  <div
+    className="col-2 mt-2"
+  >
+    <div
+      className="numeric"
+      onClick={[Function]}
+    >
+      M-
+    </div>
+  </div>
+  <div
+    className="col-2 mt-2"
+  >
+    <div
+      className="numeric"
+      onClick={[Function]}
+    >
+      MC
+    </div>
+  </div>
+</div>
+`;
